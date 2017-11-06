@@ -1,0 +1,14 @@
+/*
+@import "fonts";
+@import "buttons";
+*/
+
+@import '~normalize.css';
+$fa-font-path: "~font-awesome/fonts";
+@import '~font-awesome/scss/font-awesome.scss';
+
+@import "variables";
+@import "colors";
+@import "general";
+@import "sections";
+@import "media";
